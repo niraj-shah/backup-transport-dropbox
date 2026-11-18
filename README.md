@@ -1,4 +1,7 @@
-# This project has been deprecated
+# Modified to support AlmaLinux, modern cPanel versions, and OAuth2 Refresh Tokens.
+
+Tested on cPanel Version 138.0.24 
+
 <br />
 <br />
 <br />
